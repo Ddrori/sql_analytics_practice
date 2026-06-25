@@ -174,14 +174,4 @@ Topics discussed:
 
 ---
 
-## Repository Structure
-
-```
-├── sql_analytics_practice.ipynb
-└── README.md
-```
-
----
-
-
 These exercises reflect common tasks encountered in product analytics, business intelligence, data science, and data engineering workflows.
